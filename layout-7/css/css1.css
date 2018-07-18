@@ -1,0 +1,76 @@
+body {
+	/* display: block; */
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px 80px 40px 80px;
+	text-align: justify;
+	font-size: 16px;
+	max-width:1200px;
+	
+}
+header {
+	font-size: 48px;
+	font-weight: 700;
+	text-align: center;
+}
+.flex {
+	display: flex;
+}	
+.flex-1 {
+	flex: 1;
+	margin: 20px;
+	min-height: 100px; 
+}
+.flex-4 {
+	flex: 4;
+	margin: 20px;
+	/* min-height: 100px;  */
+}
+.bordered {
+	border: 1px solid #efefef;
+	border-radius: 10px;
+}
+.background-1 {
+	background-color: #ededed9e;
+}
+img {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.box-bold {
+	background-color: #888888;
+	margin: 20px;
+	min-height: 30px;
+}
+.editable {
+	padding:5px 0 5px 5px;
+	font-size: 16px;
+	height:95%;
+	width: 100%;
+	padding:5px;
+	display: block;
+	margin-top:auto;
+	margin-bottom:auto;
+}
+.submit {
+	position: absolute;
+	bottom: -70px; 
+	left: -20px;
+	width: 20%;
+	max-height:80px;
+	cursor: pointer;
+
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.margin-top-40 {
+	margin-top: 40px;
+}
+.margin-top-60 {
+	margin-top: 60px;
+}
