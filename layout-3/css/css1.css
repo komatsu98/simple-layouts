@@ -1,0 +1,40 @@
+body {
+	padding: 0px 40px 40px 40px;
+	text-align: justify;
+}
+header {
+	font-size: 48px;
+	font-weight: 700;
+	text-align: center;
+}
+.flex {
+	display: flex;
+}	
+.flex-1 {
+	flex: 1;
+	margin: 20px;
+	min-height: 100px; 
+}
+.bordered {
+	border: 1px solid #efefef;
+	border-radius: 10px;
+}
+.background-1 {
+	background-color: #ededed9e;
+}
+img {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.map{
+	text-align: center;
+	padding: 0 40px;
+}
+.box-bold {
+	min-height: 100px; 
+	background-color: #888888;
+	margin: 20px;
+	width:50%
+}
