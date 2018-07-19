@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Bài tập Trainee Colombo 2018
 
-You can use the [editor on GitHub](https://github.com/komatsu98/simple-layouts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Frontend 1.2 : 7 layout cơ bản
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yêu cầu:
+    - Đủ 7 giao diện, bố cục giống thiết kế, không dùng framework
+    - Chú ý các thành phần ảnh, chữ cân đối không xê dịch mất kiểm soát
+    - Chi tiết yêu cầu
 
-### Markdown
+Thực hiện bởi [Hồ Anh Tiến](https://github.com/komatsu98)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Liên kết
 
-```markdown
-Syntax highlighted code block
+- [Liên kết](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/layout/simple%20layouts.psd)
+## Giao diện
 
-# Header 1
-## Header 2
-### Header 3
+- [layout1](https://komatsu98.github.io/layout1/)
 
-- Bulleted
-- List
+- [layout2](https://komatsu98.github.io/layout2/) 
 
-1. Numbered
-2. List
+- [layout3](https://komatsu98.github.io/layout3/)
 
-**Bold** and _Italic_ and `Code` text
+- [layout4](https://komatsu98.github.io/layout4/) 
 
-[Link](url) and ![Image](src)
-```
+- [layout5](https://komatsu98.github.io/layout5/) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [layout6](https://komatsu98.github.io/layout6/) 
 
-### Jekyll Themes
+- [layout7](https://komatsu98.github.io/layout7/) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/komatsu98/simple-layouts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Kiến thức nắm được
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nắm bắt được các layout chính, cách chia bố cục layout.
