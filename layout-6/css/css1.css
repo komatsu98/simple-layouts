@@ -46,9 +46,7 @@ header {
 .background-grey {
 	background-color: #efefef;
 }
-.margin-bottom-150 {
-	margin-bottom:150px;
-}
+
 .padding-left-right-20 {
 	padding-left:20px;
 	padding-right:20px;
@@ -58,12 +56,24 @@ i {
 }
 .content {
 	max-width: 1000px;
+	margin-top: 50px;
+
 }
 .center {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-.bound {
-	padding: 20%;
+
+.container {
+	width: 500px;
+	height: 450px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+}
+.item {
+	height: 100%;
+	padding-top: 50px;
 }
